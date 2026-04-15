@@ -111,6 +111,7 @@ function App() {
       </section>
 
       <div className="ticks"></div>
+       <div className="icon"></div>
       <section id="spacer"></section>
     </>
   )
