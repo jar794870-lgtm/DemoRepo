@@ -11,9 +11,14 @@ function App() {
     <>
       <section id="center">
         <div className="hero">
-     hello sasi kiran
+     hello
         </div>
-     
+        <button
+          className="counter"
+          onClick={() => setCount((count) => count + 1)}
+        >
+          Count is {count}
+        </button>
         <button
           className="counter"
           onClick={() => setCount((count) => count + 1)}
