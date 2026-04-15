@@ -11,7 +11,7 @@ function App() {
     <>
       <section id="center">
         <div className="hero">
-     hello
+     hello fanindra
         </div>
         <button
           className="counter"
