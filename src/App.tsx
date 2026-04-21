@@ -28,6 +28,7 @@ function App() {
       </section>
 
       <div className="ticks"></div>
+      hello
 
       <section id="next-steps">
         <div id="docs">
